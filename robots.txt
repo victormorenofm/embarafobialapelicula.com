@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /patrocinadores.html
+Allow: /making-of.html
+Allow: /videos.html
+Disallow: /error404.html
+Disallow: /contact.php
+
+Sitemap: https://www.embarafobialapelicula.com/sitemap.xml
